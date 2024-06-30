@@ -1,26 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.f85fa4c9.css",
-    "main.js": "/static/js/main.3f6ef930.js",
+    "main.css": "/static/css/main.ba3bf6b1.css",
+    "main.js": "/static/js/main.06fd5cdf.js",
+    "static/media/notbopit.png": "/static/media/notbopit.05722f436873b1234957.png",
     "static/media/logo.jpg": "/static/media/logo.bd71b6bd1c65a33d50ea.jpg",
     "static/media/figure7paper.png": "/static/media/figure7paper.5efdef2a3aadd821e134.png",
     "static/media/diagram.png": "/static/media/diagram.4ae817d59d2b97a7aa2a.png",
+    "static/media/microbit.png": "/static/media/microbit.72676e2907e5bed49ca6.png",
     "static/media/lambdapiexpressions.png": "/static/media/lambdapiexpressions.7e14f70a1d47be07ec31.png",
     "static/media/define_language.png": "/static/media/define_language.57fea3549c93e42c7103.png",
     "static/media/example5.png": "/static/media/example5.9fc4126b9a7838fdf8ec.png",
+    "static/media/losingscreen.png": "/static/media/losingscreen.c50040fa9b94aa19abf9.png",
+    "static/media/completedtask.png": "/static/media/completedtask.8d2e1038061f0c56ccda.png",
     "static/media/figure7.png": "/static/media/figure7.67d36ced57fb8924c48b.png",
     "static/media/example4.png": "/static/media/example4.7bc04bf641b876a7cce9.png",
+    "static/media/task.png": "/static/media/task.9ddc0cdd089ce6f4ec8a.png",
     "static/media/example3.png": "/static/media/example3.e41c984bf13c973c861b.png",
     "static/media/example1.png": "/static/media/example1.7763a7743bfd4ad71187.png",
     "static/media/object.png": "/static/media/object.12cb9df754d1235b4e92.png",
     "static/media/example2.png": "/static/media/example2.e556680b2daa52494161.png",
     "static/media/PythonClient.png": "/static/media/PythonClient.3678999184581512953c.png",
     "index.html": "/index.html",
-    "main.f85fa4c9.css.map": "/static/css/main.f85fa4c9.css.map",
-    "main.3f6ef930.js.map": "/static/js/main.3f6ef930.js.map"
+    "main.ba3bf6b1.css.map": "/static/css/main.ba3bf6b1.css.map",
+    "main.06fd5cdf.js.map": "/static/js/main.06fd5cdf.js.map"
   },
   "entrypoints": [
-    "static/css/main.f85fa4c9.css",
-    "static/js/main.3f6ef930.js"
+    "static/css/main.ba3bf6b1.css",
+    "static/js/main.06fd5cdf.js"
   ]
 }
