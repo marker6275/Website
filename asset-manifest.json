@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.36238330.css",
-    "main.js": "/static/js/main.971caa77.js",
+    "main.css": "/static/css/main.053c0116.css",
+    "main.js": "/static/js/main.26891365.js",
     "static/media/notbopit.png": "/static/media/notbopit.05722f436873b1234957.png",
     "static/media/logo.jpg": "/static/media/logo.bd71b6bd1c65a33d50ea.jpg",
     "static/media/msp430launchpad.png": "/static/media/msp430launchpad.c4afd2e86d83c6785afa.png",
@@ -9,6 +9,7 @@
     "static/media/diagram.png": "/static/media/diagram.4ae817d59d2b97a7aa2a.png",
     "static/media/microbit.png": "/static/media/microbit.72676e2907e5bed49ca6.png",
     "static/media/lambdapiexpressions.png": "/static/media/lambdapiexpressions.7e14f70a1d47be07ec31.png",
+    "static/media/Mark_Li_Resume.pdf": "/static/media/Mark_Li_Resume.fc47733235eec87d69ac.pdf",
     "static/media/define_language.png": "/static/media/define_language.57fea3549c93e42c7103.png",
     "static/media/example5.png": "/static/media/example5.9fc4126b9a7838fdf8ec.png",
     "static/media/losingscreen.png": "/static/media/losingscreen.c50040fa9b94aa19abf9.png",
@@ -17,16 +18,20 @@
     "static/media/example4.png": "/static/media/example4.7bc04bf641b876a7cce9.png",
     "static/media/task.png": "/static/media/task.9ddc0cdd089ce6f4ec8a.png",
     "static/media/example3.png": "/static/media/example3.e41c984bf13c973c861b.png",
+    "static/media/instagram.png": "/static/media/instagram.c79da02bc2fb2db891ca.png",
     "static/media/example1.png": "/static/media/example1.7763a7743bfd4ad71187.png",
+    "static/media/github.png": "/static/media/github.4ca9714cb6bb49370793.png",
     "static/media/object.png": "/static/media/object.12cb9df754d1235b4e92.png",
+    "static/media/email.png": "/static/media/email.db2d0a02a49d6f36f4ec.png",
+    "static/media/linkedin.png": "/static/media/linkedin.5f18859b6009c0f29241.png",
     "static/media/example2.png": "/static/media/example2.e556680b2daa52494161.png",
     "static/media/PythonClient.png": "/static/media/PythonClient.3678999184581512953c.png",
     "index.html": "/index.html",
-    "main.36238330.css.map": "/static/css/main.36238330.css.map",
-    "main.971caa77.js.map": "/static/js/main.971caa77.js.map"
+    "main.053c0116.css.map": "/static/css/main.053c0116.css.map",
+    "main.26891365.js.map": "/static/js/main.26891365.js.map"
   },
   "entrypoints": [
-    "static/css/main.36238330.css",
-    "static/js/main.971caa77.js"
+    "static/css/main.053c0116.css",
+    "static/js/main.26891365.js"
   ]
 }
